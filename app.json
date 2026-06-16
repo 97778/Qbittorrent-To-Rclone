@@ -6,11 +6,11 @@
   "env": {
       "password": {
       "description": "Torrent downloader website password",
-      "value": "Enter your new password here"
+      "value": "admin"
     },
       "username": {
       "description": "Torrent downloader website username",
-      "value": "Enter your new username here"
+      "value": "admin"
     }
 
 
